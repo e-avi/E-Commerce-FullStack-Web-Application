@@ -38,13 +38,13 @@ This project is a full-stack e-commerce application built using the MERN stack (
 
   ```bash
     npm install
-```
+   ```
 
 4. **Start The Frontend Application**
 
   ```bash
     npm start
-```
+   ```
 
 ### Usage
 
